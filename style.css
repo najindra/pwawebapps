@@ -32,3 +32,67 @@ img{
   width: 70%;
 
 }
+
+@media only screen and (max-width: 480px)
+{
+  .parent
+  {
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .childone{
+    border: 3px solid blue;
+    padding: 3%;
+    margin: 2%;
+    width: 90%;
+    text-align: center;
+    border-radius: 10%;
+    background-color: skyblue;
+  }
+
+  a{
+    word-wrap: break-word;
+  }
+  h1{
+    word-wrap: break-word;
+  }
+
+  h3{
+    word-wrap: break-word;
+  }
+
+  p{
+    word-wrap: break-word;
+  }
+
+  img{
+    width: 40%;
+    border: 3px solid grey;
+    border-radius: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 7px 9px #000;
+  }
+
+  .childtwo
+  {
+    border: 3px solid blue;
+    background-color: skyblue;
+    padding: 3%;
+    margin: 2%;
+    border-radius: 10%;
+    width: 90%;
+
+  }
+
+
+
+
+
+
+
+
+}
