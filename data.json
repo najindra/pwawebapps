@@ -1,0 +1,13 @@
+{
+  "basics":{
+  "image": "images/profilepic.png",
+  "name": "Najindra Prasad ",
+  "phoneno": "+919998995753",
+  "email": "najindraprasad@gmail.com",
+  "address": "SRKR Engineering College, Bhimavaram"
+},
+"CareerObjective":{
+  "info" : "A short blurb telling the hiring manager what skills, knowledge, and abilities you have that will help the company achieve its goals."
+}
+
+}
