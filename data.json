@@ -8,6 +8,44 @@
 },
 "CareerObjective":{
   "info" : "A short blurb telling the hiring manager what skills, knowledge, and abilities you have that will help the company achieve its goals."
+},
+"education":[
+  {
+    "degree" : "B.Tech",
+    "institute" : "SRKR Engineering College",
+    "data" : ["2017-2020",89]
+  },
+  {
+    "degree" : "Diploma",
+    "institute" : "Smt.B.Seetha Polytechnic College",
+    "data" : ["2013-2017",70]
+  },
+  {
+    "degree" : "SSC",
+    "institute" : "Montessori School",
+    "data" : ["2012",75]
+  }
+],
+"skills":[
+  {
+  "title": "Languages",
+  "data" : ["C","C++","Java","PHP"]
+},
+{
+  "title": "Database",
+  "data" : ["SQL","Oracle","MYSQL"]
+},
+{
+  "title": "Operating Systems",
+  "data" : ["Linux","Windows","Dos"]
 }
-
+],
+"achievements":[
+  {
+    "data": ["Winner at Robotics competition at DARCT, Gujarat"]
+  },
+  {
+    "data": ["Winner at Speech competition at JNTU, Kakinada"]
+  }
+]
 }
