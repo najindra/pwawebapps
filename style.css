@@ -13,6 +13,14 @@
   text-align: center;
   border-radius: 10%;
 }
+table{
+  width: 90%;
+}
+td{
+  padding: 25px;
+  text-align: center;
+
+}
 img{
   width: 40%;
   border: 3px solid grey;
@@ -66,7 +74,14 @@ img{
   p{
     word-wrap: break-word;
   }
+  table{
+    width: 35%;
+  }
+  td{
+    padding: 25px;
+    text-align: center;
 
+  }
   img{
     width: 40%;
     border: 3px solid grey;
@@ -124,6 +139,16 @@ img{
 
     p{
       word-wrap: break-word;
+    }
+
+    table{
+      width: 25%;
+
+    }
+    td{
+      padding: 2%;
+      text-align: center;
+
     }
 
     img{
@@ -208,13 +233,12 @@ img{
       width: 70%;
 
     }
+    table{
+      width: 90%;
+    }
+    td{
+      padding: 25px;
+      text-align: center;
+
+    }
   }
-
-
-
-
-
-
-
-
-}
